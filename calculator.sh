@@ -1,3 +1,5 @@
 !#/bin/bash
 
-echo "my name is nahush"
+add = a+b;
+sub = a-b;
+
